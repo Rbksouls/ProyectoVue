@@ -2,36 +2,36 @@
 
 </script>
 <template>
-  <div>
+  <div class="bg-slate-500">
     <div class="px-4 sm:px-0">
-      <h3 class="text-base font-semibold leading-7 text-gray-900">Applicant Information</h3>
+      <h3 class="text-base font-semibold leading-7 text-white">Applicant Information</h3>
       <p class="mt-1 max-w-2xl text-sm leading-6 text-gray-500">Personal details and application.</p>
     </div>
-    <div class="mt-6 border-t border-gray-100">
-      <dl class="divide-y divide-gray-100">
-        <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-          <dt class="text-sm font-medium leading-6 text-gray-900">Full name</dt>
-          <dd class="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">Margot Foster</dd>
+    <div class="mt-6 border-t border-gray-100 ">
+      <dl class="divide-y divide-gray-100 bg-sky-900 ">
+        <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0 text-white">
+          <dt class="text-sm font-medium leading-6text-white">Full name</dt>
+          <dd class="mt-1 text-sm leading-6 text-white sm:col-span-2 sm:mt-0">Margot Foster</dd>
         </div>
         <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-          <dt class="text-sm font-medium leading-6 text-gray-900">Application for</dt>
-          <dd class="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">Backend Developer</dd>
+          <dt class="text-sm font-medium leading-6 text-white">Application for</dt>
+          <dd class="mt-1 text-sm leading-6 text-white sm:col-span-2 sm:mt-0">Backend Developer</dd>
         </div>
         <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-          <dt class="text-sm font-medium leading-6 text-gray-900">Email address</dt>
-          <dd class="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">margotfoster@example.com</dd>
+          <dt class="text-sm font-medium leading-6 text-white">Email address</dt>
+          <dd class="mt-1 text-sm leading-6 text-white sm:col-span-2 sm:mt-0">margotfoster@example.com</dd>
         </div>
         <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-          <dt class="text-sm font-medium leading-6 text-gray-900">Salary expectation</dt>
-          <dd class="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">$120,000</dd>
+          <dt class="text-sm font-medium leading-6 text-white">Salary expectation</dt>
+          <dd class="mt-1 text-sm leading-6 text-white sm:col-span-2 sm:mt-0">$120,000</dd>
         </div>
         <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-          <dt class="text-sm font-medium leading-6 text-gray-900">About</dt>
-          <dd class="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">Fugiat ipsum ipsum deserunt culpa aute sint do nostrud anim incididunt cillum culpa consequat. Excepteur qui ipsum aliquip consequat sint. Sit id mollit nulla mollit nostrud in ea officia proident. Irure nostrud pariatur mollit ad adipisicing reprehenderit deserunt qui eu.</dd>
+          <dt class="text-sm font-medium leading-6 text-white">About</dt>
+          <dd class="mt-1 text-sm leading-6 text-white sm:col-span-2 sm:mt-0">Fugiat ipsum ipsum deserunt culpa aute sint do nostrud anim incididunt cillum culpa consequat. Excepteur qui ipsum aliquip consequat sint. Sit id mollit nulla mollit nostrud in ea officia proident. Irure nostrud pariatur mollit ad adipisicing reprehenderit deserunt qui eu.</dd>
         </div>
         <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-          <dt class="text-sm font-medium leading-6 text-gray-900">Attachments</dt>
-          <dd class="mt-2 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
+          <dt class="text-sm font-medium leading-6 text-white">Attachments</dt>
+          <dd class="mt-2 text-sm text-white sm:col-span-2 sm:mt-0">
             <ul role="list" class="divide-y divide-gray-100 rounded-md border border-gray-200">
               <li class="flex items-center justify-between py-4 pl-4 pr-5 text-sm leading-6">
                 <div class="flex w-0 flex-1 items-center">
@@ -42,7 +42,7 @@
                   </div>
                 </div>
                 <div class="ml-4 flex-shrink-0">
-                  <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">Download</a>
+                  <a href="#" class="font-mediumtext-white hover:text-indigo-500">Download</a>
                 </div>
               </li>
               <li class="flex items-center justify-between py-4 pl-4 pr-5 text-sm leading-6">
@@ -54,7 +54,7 @@
                   </div>
                 </div>
                 <div class="ml-4 flex-shrink-0">
-                  <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">Download</a>
+                  <a href="#" class="font-medium text-white hover:text-indigo-500">Download</a>
                 </div>
               </li>
             </ul>
